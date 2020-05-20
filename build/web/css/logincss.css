@@ -1,0 +1,28 @@
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 0px;
+  margin: 15px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 40%;
+}
+
+
+
+
